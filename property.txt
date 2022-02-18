@@ -1,0 +1,2 @@
+versioning = "0.1.0"
+spring = "1.0.11.RELEASE"
